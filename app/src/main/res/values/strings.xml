@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Academic Tracker</string>
+    <string name="student">Student</string>
+    <string name="faculty">Faculty</string>
+    <string name="admin">Admin</string>
+    <string name="createStudent">Create Account for student</string>
+    <string name="createFaculty">Create Account for Faculty</string>
+    <string name="enterName">Enter UserName</string>
+    <string name="enterPassword">Enter Password</string>
+    <string name="submit">Submit</string>
+    <string name="enterMail">Enter Mail id</string>
+    <string name="enterRegno">Enter Register No</string>
+    <string name="studentRegistration">Student Registration</string>
+    <string name="facultyRegistration">Faculty Registration</string>
+    <string name="staffCode">Enter Staff Code</string>
+</resources>
