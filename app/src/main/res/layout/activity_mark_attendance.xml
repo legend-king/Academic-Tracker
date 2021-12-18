@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".FacultyLogin">
+    tools:context=".MarkAttendance">
 
     <LinearLayout
         android:layout_width="0dp"
@@ -12,30 +12,31 @@
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
         <EditText
-            android:id="@+id/facultyLoginMail"
+            android:id="@+id/studentRegNo"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_margin="10dp"
             android:ems="10"
-            android:hint="@string/enterMail"
-            android:inputType="textEmailAddress" />
+            android:hint="@string/enterRegNo"
+            android:inputType="text" />
 
         <EditText
-            android:id="@+id/facultyLoginPassword"
+            android:id="@+id/studentAttendance"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_margin="10dp"
             android:ems="10"
-            android:hint="@string/enterPassword"
-            android:inputType="textPassword" />
+            android:hint="@string/enterAttendance"
+            android:inputType="number" />
+
 
         <Button
-            android:id="@+id/facultyLoginBtn"
+            android:id="@+id/attBtn"
             android:layout_width="200dp"
             android:layout_height="0dp"
             android:layout_gravity="center"

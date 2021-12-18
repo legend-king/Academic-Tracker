@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AcademicTracker">
         <activity
+            android:name=".MarkAttendance"
+            android:exported="false" />
+        <activity
+            android:name=".CreateAssignment"
+            android:exported="false" />
+        <activity
+            android:name=".CreateExam"
+            android:exported="false" />
+        <activity
             android:name=".CreateFaculty"
             android:exported="false" />
         <activity

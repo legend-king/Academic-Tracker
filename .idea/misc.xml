@@ -6,10 +6,14 @@
         <entry key="..\:/Users/TCS/AcademicTracker/app/src/main/res/drawable/rounded_corner.xml" value="0.20052083333333334" />
         <entry key="..\:/Users/TCS/AcademicTracker/app/src/main/res/layout/activity_admin_dashboard.xml" value="0.184375" />
         <entry key="..\:/Users/TCS/AcademicTracker/app/src/main/res/layout/activity_admin_login.xml" value="0.184375" />
+        <entry key="..\:/Users/TCS/AcademicTracker/app/src/main/res/layout/activity_create_assignment.xml" value="0.1703125" />
+        <entry key="..\:/Users/TCS/AcademicTracker/app/src/main/res/layout/activity_create_exam.xml" value="0.184375" />
         <entry key="..\:/Users/TCS/AcademicTracker/app/src/main/res/layout/activity_create_faculty.xml" value="0.1703125" />
         <entry key="..\:/Users/TCS/AcademicTracker/app/src/main/res/layout/activity_create_student.xml" value="0.184375" />
+        <entry key="..\:/Users/TCS/AcademicTracker/app/src/main/res/layout/activity_faculty_dashboard.xml" value="0.184375" />
         <entry key="..\:/Users/TCS/AcademicTracker/app/src/main/res/layout/activity_faculty_login.xml" value="0.184375" />
         <entry key="..\:/Users/TCS/AcademicTracker/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Users/TCS/AcademicTracker/app/src/main/res/layout/activity_mark_attendance.xml" value="0.184375" />
         <entry key="..\:/Users/TCS/AcademicTracker/app/src/main/res/layout/activity_student_dashboard.xml" value="0.184375" />
         <entry key="..\:/Users/TCS/AcademicTracker/app/src/main/res/layout/activity_student_login.xml" value="0.184375" />
       </map>

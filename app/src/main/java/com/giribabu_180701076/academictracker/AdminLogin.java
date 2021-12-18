@@ -36,6 +36,7 @@ public class AdminLogin extends AppCompatActivity {
                 else if (name1.equals("admin") && pass1.equals("admin1234")){
                     Intent intent = new Intent(getApplicationContext(), AdminDashboard.class);
                     startActivity(intent);
+                    finish();
                 }
                 else{
                     Toast.makeText(getApplicationContext(), "Username or password is wrong", Toast.LENGTH_SHORT).show();

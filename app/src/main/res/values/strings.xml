@@ -13,4 +13,10 @@
     <string name="studentRegistration">Student Registration</string>
     <string name="facultyRegistration">Faculty Registration</string>
     <string name="staffCode">Enter Staff Code</string>
+    <string name="createExam">Create New Exam</string>
+    <string name="createNewAssignment">Create New Assignment</string>
+    <string name="markAttendance">Mark Student Attendance</string>
+    <string name="enterAttendance">Enter Attendance Percentage</string>
+    <string name="enterRegNo">Enter Student Reg No</string>
+    <string name="enterQuestion">Enter the Assignment Question</string>
 </resources>

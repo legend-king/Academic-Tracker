@@ -6,4 +6,39 @@
     android:layout_height="match_parent"
     tools:context=".FacultyDashboard">
 
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/createExamBtn"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/rounded_corner"
+            android:text="@string/createExam" />
+
+        <Button
+            android:id="@+id/createAssBtn"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/rounded_corner"
+            android:text="@string/createNewAssignment" />
+
+        <Button
+            android:id="@+id/markAttBtn"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/rounded_corner"
+            android:text="@string/markAttendance" />
+    </LinearLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
