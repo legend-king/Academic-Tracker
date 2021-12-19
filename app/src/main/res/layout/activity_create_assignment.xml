@@ -22,7 +22,7 @@
             android:layout_height="50dp"
             android:layout_margin="10dp"
             android:ems="10"
-            android:hint="@string/enterQuestion"
+            android:hint="@string/enterRegNo"
             android:inputType="text" />
 
         <EditText
